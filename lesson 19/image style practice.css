@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+.img-1 {
+  filter: blur(10px);
+}
+
+.img-2 {
+  filter: contrast(05);
+}
+
+.img-3 {
+  filter: grayscale(1);
+}
+
+.img-4 {
+  filter: hue-rotate(180deg);
+}
+
+.img-5 {
+  filter: brightness(0.2);
+}
+
+.img-6 {
+  filter: invert(100%);
+}
+
+h1 {
+  margin: 10px 0;
+}
